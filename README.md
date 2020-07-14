@@ -1,6 +1,6 @@
 <h2> Hi, I'm Vijay Dhyani! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/3oz8xQ6746bq8fjBBu/giphy.gif" width="230">
-<p><em>Student at <a href="http://www.unb.br">CRSSIET, Jhajjar</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+<p><em>Student at <a href="http://crssietjhajjar.ac.in/">CRSSIET, Jhajjar</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
 [![Linkedin: imvjdhyani](https://img.shields.io/badge/-imvjdhyani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imvjdhyani/)](https://www.linkedin.com/in/imvjdhyani/)
