@@ -15,9 +15,10 @@ const Vijay = {
   code: [Javascript, HTML, CSS, Bootstrap , Materilize CSS],
   tools: [React, Node],
   Design Tools: ["Figma", "Abobe XD"],
-  Hackathons: {
-                        participation: "Hack Jaipur",
-                        participation: "DEV SOC 1.0"
+  Other Intrest: {
+                        "Blogging",
+                        "SEO",
+                        "Web Security"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on Web Development"
 }
