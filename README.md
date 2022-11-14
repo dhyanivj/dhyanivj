@@ -20,7 +20,6 @@ const Vijay = {
                         "SEO",
                         "Web Security"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on Web Development"
 }
 ```
 
